@@ -320,6 +320,16 @@ margin-bottom:15px;
 
 }
 
+.footer-social p a{
+   color:var(--white);
+   text-decoration: none;
+
+}
+
+.quick-links p a{
+   color:var(--primary-dark);
+   text-decoration: none;
+}
 
 /* ================================
    PAGE BANNER (ABOUT + ROOMS)
@@ -555,6 +565,13 @@ transform:scale(1.05);
 
 }
 
+.cta {
+   linespace: 1.5;
+}
+
+.cta p{
+   margin-bottom: 15px;
+}
 
 /* ================================
    CONTACT (READY)
